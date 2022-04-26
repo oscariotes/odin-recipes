@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  h1{
+      text-align: center;
+      background-color: rgb(47, 0, 255);
+      color: aliceblue;
+  }
