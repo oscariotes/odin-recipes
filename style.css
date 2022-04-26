@@ -13,4 +13,6 @@ img {
       text-align: center;
       background-color: rgb(47, 0, 255);
       color: aliceblue;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 100px;
   }
